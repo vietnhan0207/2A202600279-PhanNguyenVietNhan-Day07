@@ -25,6 +25,7 @@ SAMPLE_FILES = [
     "data/customer_support_playbook.txt",
     "data/chunking_experiment_report.md",
     "data/vi_retrieval_notes.md",
+    "data/VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.md"
 ]
 
 

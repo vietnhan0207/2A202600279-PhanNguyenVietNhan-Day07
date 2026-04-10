@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest test_phase2.py -v)",
+      "Bash(python -m pytest tests/ -v)",
+      "Bash(python -m pytest tests/test_solution.py::TestEmbeddingStore::test_add_more_increases_further -v)"
+    ]
+  }
+}
